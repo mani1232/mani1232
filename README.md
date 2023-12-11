@@ -3,13 +3,9 @@
 <hr>
 
 <h2 align="center">
-  <a href="https://github.com/mani1232">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mani1232&show_icons=true&theme=onedark">
-  </a>
-  <br>
-  <a href="https://github.com/mani1232">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani1232&layout=compact&theme=onedark">
-  </a>
+[![](https://raw.githubusercontent.com/mani1232/mani1232/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mani1232/mani1232/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mani1232/mani1232/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mani1232/mani1232/main/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mani1232/mani1232/main/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </h2>
 
 <br>
