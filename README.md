@@ -3,4 +3,4 @@
 [![](https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://komarev.com/ghpvc/?username=mani1232&style=for-the-badge&color=1D252C)
+![](https://komarev.com/ghpvc/?username=mani1232&style=for-the-badge&color=1D252C&label=views)
