@@ -10,5 +10,8 @@
     <img src="https://skillicons.dev/icons?i=git,kotlin,docker,ktor,linux,maven,nginx,java,idea,mongodb,mysql,gradle,hibernate,md,js,html,css,wasm,figma" />
   </a>
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/486559882825302027)](https://discord.com/users/486559882825302027)
+
+  <a href="https://discord.com/users/486559882825302027">
+    <img src="https://lanyard.cnrad.dev/api/486559882825302027" />
+  </a>
 </p>
