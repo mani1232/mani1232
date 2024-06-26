@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=kotlin,java,mongodb" />
   </a>
 
-  ![](https://komarev.com/ghpvc/?username=mani1232&style=for-the-badge&color=1D252C&label=views)
+  ![](https://komarev.com/ghpvc/?username=mani1232&style=for-the-badge&color=1D252C&label=Profile%20views)
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,ktor,linux,maven,nginx,idea,mysql,js,gradle,hibernate,md,html,css,wasm,figma" />
