@@ -27,10 +27,10 @@
 
   <h3>🛠 Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,js,html,css,wasm,md&perline=14" alt="Languages" />
+    <img src="https://go-skill-icons.vercel.app/icons?i=kotlin,java&perline=3" alt="Languages" />
     <br/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,mysql,mongodb,nginx,maven,gradle,hibernate,ktor,idea,figma&perline=14" alt="Tools" />
+    <img src="https://go-skill-icons.vercel.app/icons?i=github,git,docker,linux,typescript,mysql,mongodb,nginx,maven,gradle,hibernate,ktor,idea,figma,js,html,css,wasm,md,postgresql,kafka,apache&perline=14" alt="Tools" />
   </a>
 
   <br/><br/>
