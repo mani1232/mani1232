@@ -30,7 +30,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,java">
     <br/>
     <br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,docker,linux,typescript,mysql,mongodb,nginx,maven,gradle,hibernate,ktor,idea,figma,js,html,css,wasm,md,postgresql,kafka,apache&perline=14">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,docker,linux,typescript,mysql,mongodb,nginx,maven,gradle,hibernate,ktor,idea,figma,js,html,css,wasm,md,postgresql,kafka,apache&perline=11">
   </a>
 
   <br/><br/>
