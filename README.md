@@ -26,11 +26,11 @@
   <br/><br/>
 
   <h3>🛠 Tech Stack</h3>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/icons?i=kotlin,java" alt="Languages" />
+  <a href="https://discord.worldmandia.cc/">
+    <img src="https://go-skill-icons.vercel.app/icons?i=kotlin,java">
     <br/>
     <br/>
-    <img src="https://go-skill-icons.vercel.app/icons?i=github,git,docker,linux,typescript,mysql,mongodb,nginx,maven,gradle,hibernate,ktor,idea,figma,js,html,css,wasm,md,postgresql,kafka,apache" alt="Tools" />
+    <img src="https://go-skill-icons.vercel.app/icons?i=github,git,docker,linux,typescript,mysql,mongodb,nginx,maven,gradle,hibernate,ktor,idea,figma,js,html,css,wasm,md,postgresql,kafka,apache&perline=14">
   </a>
 
   <br/><br/>
