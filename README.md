@@ -26,7 +26,7 @@
   <br/><br/>
 
   <h3>🛠 Tech Stack</h3>
-  <a href="https://skillicons.dev">
+  <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/icons?i=kotlin,java&perline=3" alt="Languages" />
     <br/>
     <br/>
