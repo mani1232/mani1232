@@ -5,23 +5,23 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/0-profile-details.svg" width="300" alt="Profile Details" />
+        <img src="https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/0-profile-details.svg" width="450" alt="Profile Details" />
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/1-repos-per-language.svg" width="300" alt="Repos per Language" />
+        <img src="https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/1-repos-per-language.svg" width="450" alt="Repos per Language" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/2-most-commit-language.svg" width="300" alt="Most Commit Language" />
+        <img src="https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/2-most-commit-language.svg" width="450" alt="Most Commit Language" />
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/3-stats.svg" width="300" alt="Stats" />
+        <img src="https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/3-stats.svg" width="450" alt="Stats" />
       </td>
     </tr>
   </table>
 
-  <img src="https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/mani1232/profile-repo/master/profile-summary-card-output/city_lights/4-productive-time.svg" width="450" alt="Productive Time" />
 
   <br/><br/>
 
